@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera_Capstone_Final Project_Predict the traffic
+This is a repository for Coursera Capstone Final Project: Predict the traffic
